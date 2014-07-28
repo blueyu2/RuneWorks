@@ -1,0 +1,21 @@
+[
+{
+  "modid": "runeworks",
+  "name": "RuneWorks",
+  "description": "Automate Minecraft with runes and pylons.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authors": [
+  "blueyu2"
+  ],
+  "credits": "Pahimar, Vswe",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
